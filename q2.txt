@@ -1,0 +1,4 @@
+Madrid to Porto = 215
+Porto to Rome = 360
+Rome to Paris = 101
+Paris to Madrid = 193
